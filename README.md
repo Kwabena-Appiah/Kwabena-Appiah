@@ -9,7 +9,7 @@ I'm a Software Engineer, Content Creator, and an aspiring Community Engineer who
 - 😊 Pronouns: He/him
 - 💡 Fun fact: Looking for collaborations to build great applications.
 - 🌱 Great with JavaScript, Reactjs, and Python.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I’m looking to help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing mailtoofosuappiahgodfred@gmail.com.
 
